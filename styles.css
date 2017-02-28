@@ -6,6 +6,13 @@
   margin-top: 50px;
 }
 
+.imgResize65.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
 .footer.row {
   padding-top: 30px;
   background-color: #735D5F;
@@ -18,5 +25,5 @@
 }
 
 .copyright.row p {
-  text-align:center;
+    margin: 0 auto;
 }
