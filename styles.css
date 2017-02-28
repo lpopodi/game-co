@@ -1,0 +1,22 @@
+.container {
+    background-color: #efefef;
+}
+
+.cta.row, .content.row {
+  margin-top: 50px;
+}
+
+.footer.row {
+  padding-top: 30px;
+  background-color: #735D5F;
+}
+
+.copyright.row {
+  padding-top: 15px;
+  background-color: #453234;
+  color: #fff;
+}
+
+.copyright.row p {
+  text-align:center;
+}
