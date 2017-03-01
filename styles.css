@@ -2,7 +2,13 @@
     background-color: #efefef;
 }
 
-.cta.row, .content.row {
+.cta.row {
+  background-color: #06548a;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.content.row {
   margin-top: 50px;
 }
 
@@ -15,12 +21,16 @@
 
 .footer.row {
   padding-top: 30px;
-  background-color: #735D5F;
+  background-color: rgba(236, 27, 48, .7);
+}
+
+.footer.row img {
+    width: 85%;
 }
 
 .copyright.row {
   padding-top: 15px;
-  background-color: #453234;
+  background-color: #ec1b30;
   color: #fff;
 }
 
