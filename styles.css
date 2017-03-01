@@ -2,6 +2,20 @@
     background-color: #efefef;
 }
 
+nav.navbar.navbar-toggleable-md.navbar-light.bg-faded {
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: #ec1b30;
+}
+
+form.form-inline.my-2.my-lg-0 {
+    float: right;
+}
+
+.carousel {
+    margin: -20px -15px 0px -15px;
+}
+
 .cta.row {
   background-color: #06548a;
   padding-top: 50px;
