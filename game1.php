@@ -19,9 +19,6 @@
 	<div class="container">
   	<!-- Navigation -->
     <?php include ("navigation.php"); ?>
-
-  	<!-- Slider Section -->
-    <div class="container">
   	<!-- Content-->
 
     <!--Footer Section Here -->
