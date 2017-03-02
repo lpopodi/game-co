@@ -8,32 +8,41 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Shadows Into Light' !important;
 }
 
+a {
+    color: #fff !important;
+}
+
+a:hover {
+    color: #ccc !important;
+}
+
 .container {
     background-color: #efefef;
     padding-left: 0;
     padding-right: 0;
 }
 
-nav.navbar.navbar-toggleable-md.navbar-light.bg-faded {
-    margin-left: -15px;
-    margin-right: -15px;
-    background-color: #ec1b30;
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #ea1e1f;
+    color: #fff;
 }
 
-a.navbar-brand {
-    color: #fff !important;
+.nav-item.dropdown {
+    background-color: #ea1e1f;
 }
 
-a:hover.navbar-brand {
-    color: #ccc !important;
+.nav-tabs .dropdown-menu {
+  background-color: #ea1e1f;
 }
 
-a.nav-link {
-    color: #fff !important;
+.nav-tabs .nav-link {
+    color: #fff;
 }
 
-a:hover.nav-link {
-    color: #ccc !important;
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+    background-color: #ea1e1f;
+    border-color: #141011;
+    color: #ccc;
 }
 
 .btn-outline-success {
@@ -49,21 +58,24 @@ form.form-inline.my-2.my-lg-0 {
     float: right;
 }
 
-div#myCarousel {
-    margin-top: -20px;
-    background-color: #312828;
-}
-
 .cta.row {
   background-color: #06548a;
   padding-top: 30px;
   padding-bottom: 50px;
 }
 
+.cta.row h3 {
+    text-align: center !important;
+}
+
 .soon.row {
   background-color: #090a0a;
   padding-top: 30px;
   padding-bottom: 50px;
+}
+
+.soon.row h3 {
+    text-align: center;
 }
 
 #availablenow {
@@ -109,6 +121,18 @@ div#myCarousel {
   width: 65%;
 }
 
+.imgResize65 {
+  width: 65%;
+}
+
+.imgLeftSide.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: blue 5px solid;
+  width: 90%;
+}
+
 .footer.row {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -132,4 +156,9 @@ div#myCarousel {
 
 .copyright.row p {
     margin: 0 auto;
+}
+
+#inner {
+  margin-top: 30px;
+  min-height: 350px;
 }

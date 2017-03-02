@@ -60,13 +60,13 @@
     <h2>Available Now</h2>
   </div>
     <div class="cta row">
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/ww2.png" class="img-responsive" alt="wonder woman" /></div>
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/supergirl.png" class="img-responsive" alt="super girl" /></div>
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/emma-frost.png" class="img-responsive" alt="emma frost" /></div>
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/bat-woman.png" class="img-responsive" alt="bat woman" /></div>
+      <div class="col-sm-3"><a href="wonder-woman.php"><img class="imgResize65 center-block" src="images/ww2.png" class="img-responsive" alt="wonder woman" /></a><a href="wonder-woman.php"><h3>Wonder Woman</h3></a></div>
+      <div class="col-sm-3"><a href="supergirl.php"><img class="imgResize65 center-block" src="images/supergirl.png" class="img-responsive" alt="super girl" /></a><a href="supergirl.php"><h3>Super Girl</h3></a></div>
+      <div class="col-sm-3"><a href="emma-frost.php"><img class="imgResize65 center-block" src="images/emma-frost.png" class="img-responsive" alt="emma frost" /></a><a href="emma-frost.php"><h3>Emma Frost</h3></a></div>
+      <div class="col-sm-3"><a href="batwoman.php"><img class="imgResize65 center-block" src="images/bat-woman.png" class="img-responsive" alt="bat woman" /></a><a href="batwoman.php"><h3>Bat Woman</h3></a></div>
     </div><!-- end row 1 CTA section -->
 		<div class="content row">
-			<div class="col-sm-4">Created by me because I too am awesome!</div>
+			<div class="col-sm-4"><img class="imgLeftSide center-block" src="images/new-release.jpg" class="img-responsive" alt="wonder woman new release" />Created by me because I too am awesome!</div>
 			<div class="col-sm-8"><h2>Dedicated to the bad-ass Women Super Heroes</h2>Super Heroins is a New game company dedicated to the real power behind superheroes ... the women! Wonder Woman, Bat Woman, Supergirl, and Emma Frost are already available with many more heroins to follow coming soon!  </div>
 		</div><!-- end row 2 middle -->
     <!-- Coming Soon Section -->

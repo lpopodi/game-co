@@ -3,10 +3,10 @@
   <div class="col-sm-3">
     <h3>Available Now</h3>
     <ul>
-      <li>Wonder Woman</li>
-      <li>Supergirl</li>
-      <li>Emma Frost</li>
-      <li>Bat Woman</li>
+      <li><a href="wonder-woman.php">Wonder Woman</a></li>
+      <li><a href="supergirl.php">Supergirl</a></li>
+      <li><a href="emma-frost.php">Emma Frost</a></li>
+      <li><a href="batwoman.php">Bat Woman</a></li>
     </ul>
   </div>
   <div class="col-sm-3">
