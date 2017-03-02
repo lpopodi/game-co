@@ -32,15 +32,15 @@
      <!-- Wrapper for slides -->
      <div class="carousel-inner" role="listbox">
        <div class="item active">
-         <img src="images/slide1.jpg" class="img-responsive" alt="Slide 1">
+         <img src="images/slideWW.jpg" class="img-responsive" alt="Wonder Woman">
        </div>
 
        <div class="item">
-         <img src="images/slide2.jpg" class="img-responsive" alt="Slide 2">
+         <img src="images/slideavailable.jpg" class="img-responsive" alt="Available Now">
        </div>
 
        <div class="item">
-         <img src="images/slide3.jpg" class="img-responsive" alt="Slide 3">
+         <img src="images/comingsoon.jpg" class="img-responsive" alt="Coming Soon">
        </div>
      </div>
 
