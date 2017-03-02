@@ -3,6 +3,11 @@ body {
     background-color: #312828 !important;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  font-family: 'Shadows Into Light' !important;
+}
+
 .container {
     background-color: #efefef;
     padding-left: 0;
@@ -51,8 +56,41 @@ div#myCarousel {
 
 .cta.row {
   background-color: #06548a;
-  padding-top: 50px;
+  padding-top: 30px;
   padding-bottom: 50px;
+}
+
+.soon.row {
+  background-color: #090a0a;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+#availablenow {
+    margin: -15px;
+    display: block;
+    position: relative;
+    background-color: #06548a;
+}
+
+#availablenow h2{
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+#comingsoon {
+    margin: -15px;
+    display: block;
+    position: relative;
+    background-color: #090a0a;
+}
+
+#comingsoon h2{
+    padding-top: 20px;
+    text-align: center;
+    color: white;
 }
 
 .content.row .col-sm-4 {
@@ -79,6 +117,11 @@ div#myCarousel {
 
 .footer.row img {
     width: 85%;
+}
+
+.footer.row ul {
+    margin-left: -40px;
+    list-style: none;
 }
 
 .copyright.row {

@@ -4,11 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Wonder Woman Video Game</title>
+  <title>Super Heroins | The real power behind Super Heroes</title>
 
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
   <!-- Add all of your custom CSS to styles.css -->
   <link href="styles.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
   <!-- Add Bootstrap  -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -55,16 +56,21 @@
    </div>
 
 	<!-- Content-->
+  <div id="availablenow">
+    <h2>Available Now</h2>
+  </div>
     <div class="cta row">
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/ww1.png" class="img-responsive" alt="ww1" /></div>
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/ww2.png" class="img-responsive" alt="ww2" /></div>
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/ww3.png" class="img-responsive" alt="ww3" /></div>
-      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/ww4.png" class="img-responsive" alt="ww4" /></div>
+      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/ww2.png" class="img-responsive" alt="wonder woman" /></div>
+      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/supergirl.png" class="img-responsive" alt="super girl" /></div>
+      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/emma-frost.png" class="img-responsive" alt="emma frost" /></div>
+      <div class="col-sm-3"><img class="imgResize65 center-block" src="images/bat-woman.png" class="img-responsive" alt="bat woman" /></div>
     </div><!-- end row 1 CTA section -->
 		<div class="content row">
-			<div class="col-sm-4">Lorem ipsum dolor sit amet, putant albucius scaevola et eam, nam ceteros recteque at. Ius sint facer docendi ad, detraxit pertinacia ad sea, nam labore lucilius ei. An primis aliquip intellegebat mel, aliquip deserunt concludaturque te nam. Odio ceteros prodesset ei pri. Ei fastidii adipiscing eos, pertinax electram elaboraret has eu, ea est altera mollis reprehendunt. In sea menandri reprehendunt, te vix decore fastidii.Eam eu complectitur disputationi, eos eu delicata imperdiet, ut sit erat tritani antiopam. No sea dicat numquam disputando, quando disputationi sit an, mel ne suas invenire. Graeco dolorem ea vis. Ne dico splendide usu.</div>
-			<div class="col-sm-8">Lorem ipsum dolor sit amet, putant albucius scaevola et eam, nam ceteros recteque at. Ius sint facer docendi ad, detraxit pertinacia ad sea, nam labore lucilius ei. An primis aliquip intellegebat mel, aliquip deserunt concludaturque te nam. Odio ceteros prodesset ei pri. Ei fastidii adipiscing eos, pertinax electram elaboraret has eu, ea est altera mollis reprehendunt. In sea menandri reprehendunt, te vix decore fastidii.Eam eu complectitur disputationi, eos eu delicata imperdiet, ut sit erat tritani antiopam. No sea dicat numquam disputando, quando disputationi sit an, mel ne suas invenire. Graeco dolorem ea vis. Ne dico splendide usu.</div>
+			<div class="col-sm-4">Created by me because I too am awesome!</div>
+			<div class="col-sm-8"><h2>Dedicated to the bad-ass Women Super Heroes</h2>Super Heroins is a New game company dedicated to the real power behind superheroes ... the women! Wonder Woman, Bat Woman, Supergirl, and Emma Frost are already available with many more heroins to follow coming soon!  </div>
 		</div><!-- end row 2 middle -->
+    <!-- Coming Soon Section -->
+    <?php include ("coming-soon.php"); ?>
     <!--Footer Section Here -->
     <?php include ("footer.php"); ?>
 	</div><!-- end container div -->
